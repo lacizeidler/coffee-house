@@ -1,0 +1,25 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+header {
+    text-align: center;
+    font-size: 40px;
+    margin-top: 20px;
+}
+
+.list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.shop {
+    border: black dotted 1px;
+    font-size: 15px;
+    padding: 15px 30px;
+    margin: 0 px 20px;
+    width: 16%;
+    text-align: center;
+}
